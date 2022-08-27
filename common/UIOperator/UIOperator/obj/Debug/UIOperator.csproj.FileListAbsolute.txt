@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\MyProject\Messager\common\UIOperator\UIOperator\bin\Debug\UIOperator.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\common\UIOperator\UIOperator\bin\Debug\UIOperator.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\common\UIOperator\UIOperator\obj\Debug\UIOperator.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\common\UIOperator\UIOperator\obj\Debug\UIOperator.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\common\UIOperator\UIOperator\obj\Debug\UIOperator.csprojAssemblyReference.cache

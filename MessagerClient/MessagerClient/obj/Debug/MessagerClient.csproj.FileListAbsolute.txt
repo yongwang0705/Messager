@@ -1,0 +1,81 @@
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.FrmUserList.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.LoginForm.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.ChatForm.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.exe.config
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.exe
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.exe
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\UIOperator.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\UIOperator.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\Client.exe.config
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\Client.exe
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\Client.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\UIOperator.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\UIOperator.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.ChatForm.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.FrmSignUp.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.FrmUserList.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.LoginForm.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\MessagerClient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\MessagerClient.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.exe
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\MessagerClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.NoticeForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\Client.exe.config
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\Client.exe
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\Client.pdb
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\UIOperator.dll
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\bin\Debug\UIOperator.pdb
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\MessagerClient.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.ChatForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.FrmSignUp.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.FrmUserList.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.LoginForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.NoticeForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\MessagerClient.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\MessagerClient.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.exe
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient - 副本\MessagerClient\obj\Debug\Client.pdb
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.exe.config
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.exe
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.pdb
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\UIOperator.dll
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\UIOperator.pdb
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.ChatForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.FrmSignUp.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.FrmUserList.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.LoginForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.NoticeForm.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.exe
+C:\Users\Administrator\OneDrive\code\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.pdb
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.exe.config
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.exe
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\Client.pdb
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\UIOperator.dll
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\bin\Debug\UIOperator.pdb
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.AssemblyReference.cache
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.ChatForm.resources
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.FrmSignUp.resources
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.FrmUserList.resources
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.LoginForm.resources
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.NoticeForm.resources
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.Properties.Resources.resources
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.GenerateResource.cache
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.CoreCompileInputs.cache
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\MessagerClient.csproj.CopyComplete
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.exe
+C:\Users\王勇\OneDrive\Desktop\OneDriveBackup\Code\C#\MyProject\Messager\MessagerClient\MessagerClient\obj\Debug\Client.pdb
