@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagerServer", "MessagerServer\MessagerServer.csproj", "{53B44AF5-55E5-4916-B83C-32032E7903BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B44AF5-55E5-4916-B83C-32032E7903BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B44AF5-55E5-4916-B83C-32032E7903BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B44AF5-55E5-4916-B83C-32032E7903BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B44AF5-55E5-4916-B83C-32032E7903BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18E9E32-529C-44E3-B776-F69F3F833A49}
+	EndGlobalSection
+EndGlobal
