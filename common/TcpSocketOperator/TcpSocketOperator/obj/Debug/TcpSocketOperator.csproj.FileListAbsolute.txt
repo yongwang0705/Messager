@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\bin\Debug\TcpSocketOperator.dll
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\bin\Debug\TcpSocketOperator.pdb
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.dll
+C:\Users\Administrator\source\repos\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\bin\Debug\TcpSocketOperator.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\bin\Debug\TcpSocketOperator.pdb
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.dll
+C:\Users\Administrator\source\repos\MyProject\Messager\common\TcpSocketOperator\TcpSocketOperator\obj\Debug\TcpSocketOperator.pdb
