@@ -5,9 +5,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/yongwang0705/Messager.svg?style=social&label=Stars)](https://github.com/yongwang0705/Messager)
 [![GitHub forks](https://img.shields.io/github/forks/yongwang0705/Messager.svg?style=social&label=Fork)](https://github.com/yongwang0705/Messager)
 
-## Introduction
+## 1. Introduction
 A C/S windows desktop application which aims to offer the complete solution on internal communication of enterprise. It’s built on .Net FrameWork 4.7.2 and Asure.  It supports registration, user identity verification and messages distribution etc.
-## Functions Flowchat
+## 2. Functions Flowchat
 #### <center>SignUp
 ```mermaid
 graph TB;
@@ -91,9 +91,48 @@ CU2--Update-->CFS2
 
 ```
 
-## Architechture
+## 3. Architechture
+#### <center>Message send&& Message distrition
 ```mermaid
-graph TB;
-MoninorThread(FrmChat.cs)
+sequenceDiagram
+    participant ClientOne
+    participant messageMonitorThread
+    participant clientReadThread
+    participant clientWriteThread
+    participant MessageQueue
+    messageMonitorThread->>messageMonitorThread:Wait
+    ClientOne->>messageMonitorThread: SignIn
+    loop SignIn
+        messageMonitorThread->>clientReadThread:Create
+        messageMonitorThread->>clientWriteThread:Create
+    end
+    loop Recv Message
+        clientReadThread->>clientReadThread:Wait
+        ClientOne->>clientReadThread: Message
+        clientReadThread->>MessageQueue: Save
+    end
+    loop Send Message
+        clientWriteThread->>clientWriteThread:Wait
+        MessageQueue->>clientWriteThread: Retrieve
+        clientWriteThread->>ClientTwo: Distribute
+    end
 
+```
+
+
+```mermaid
+stateDiagram
+    [*] --> messageMonitorThread 
+    state messageMonitorThread {
+        [*] --> Socket.Poll()
+        Socket.Poll()-->Socket.Poll():wait
+        Socket.Poll()-->Socket.Accept():ReceivedMessage
+        Socket.Accept()-->CreateClientReadThread(): 
+        Socket.Accept()-->CreateClientWriteThread(): 
+        CreateClientReadThread()--> return
+        CreateClientWriteThread()--> return
+        return-->Socket.Poll()
+}
+messageMonitorThread --> [*]
 ````
+
